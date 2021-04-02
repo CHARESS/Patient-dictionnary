@@ -1,0 +1,2 @@
+# uqam-project
+Magazine
