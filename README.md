@@ -1,2 +1,2 @@
-# uqam-project
+# OpenMRS-API-Middleware
 Magazine
